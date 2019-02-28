@@ -1,0 +1,12 @@
+G:\Documents\Projects\xaarinTestApp\xaarinTestApp\xaarinTestApp\bin\Debug\netstandard2.0\xaarinTestApp.deps.json
+G:\Documents\Projects\xaarinTestApp\xaarinTestApp\xaarinTestApp\bin\Debug\netstandard2.0\xaarinTestApp.dll
+G:\Documents\Projects\xaarinTestApp\xaarinTestApp\xaarinTestApp\bin\Debug\netstandard2.0\xaarinTestApp.pdb
+G:\Documents\Projects\xaarinTestApp\xaarinTestApp\xaarinTestApp\obj\Debug\netstandard2.0\xaarinTestApp.csprojAssemblyReference.cache
+G:\Documents\Projects\xaarinTestApp\xaarinTestApp\xaarinTestApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Documents\Projects\xaarinTestApp\xaarinTestApp\xaarinTestApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Documents\Projects\xaarinTestApp\xaarinTestApp\xaarinTestApp\obj\Debug\netstandard2.0\xaarinTestApp.csproj.CoreCompileInputs.cache
+G:\Documents\Projects\xaarinTestApp\xaarinTestApp\xaarinTestApp\obj\Debug\netstandard2.0\xaarinTestApp.AssemblyInfoInputs.cache
+G:\Documents\Projects\xaarinTestApp\xaarinTestApp\xaarinTestApp\obj\Debug\netstandard2.0\xaarinTestApp.AssemblyInfo.cs
+G:\Documents\Projects\xaarinTestApp\xaarinTestApp\xaarinTestApp\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Documents\Projects\xaarinTestApp\xaarinTestApp\xaarinTestApp\obj\Debug\netstandard2.0\xaarinTestApp.dll
+G:\Documents\Projects\xaarinTestApp\xaarinTestApp\xaarinTestApp\obj\Debug\netstandard2.0\xaarinTestApp.pdb
